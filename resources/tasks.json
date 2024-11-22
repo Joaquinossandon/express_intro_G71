@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Limpiar la casa",
+        "description": "Limpiar la casa antes de las 12:00",
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "name": "Sacar la basura",
+        "description": "pasa a las 11:00AM",
+        "status": "pending"
+    },
+    {
+        "id": 3,
+        "name": "Sacar al perro",
+        "description": "pasa a las 11:00AM",
+        "status": "pending"
+    },
+    {
+        "id": 4,
+        "name": "Comer basura",
+        "description": "una hamburguesa",
+        "status": "pending"
+    }
+]
